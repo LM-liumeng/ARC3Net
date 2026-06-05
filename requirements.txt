@@ -10,3 +10,4 @@ einops
 mamba-ssm
 ptflops
 scipy
+PyYAML
